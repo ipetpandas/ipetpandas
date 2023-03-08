@@ -1,5 +1,5 @@
 <h2 align="center">
-Hi there 👋 My name is Peter Nguyen.
+![Header](./github-header-image.png)
   </h2>
 
 <p align="center">
