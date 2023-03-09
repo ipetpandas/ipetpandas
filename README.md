@@ -7,9 +7,9 @@
 I am a software engineer specializing in web development, with extensive experience in creating graphics, designing layouts, and building complex projects. I am skilled in multiple programming languages including JavaScript and Python, and have in-depth knowledge of popular libraries such as React.js. Graduating from a rigorous coding bootcamp has equipped me with the necessary skills to make a significant impact in the tech industry. I am enthusiastic about expanding my knowledge and exploring new opportunities in software engineering.
 
 ## Quick facts:
-- 🎮 I love playing video games and would love to break into the gaming industry one day
+- 🎮 Very passionate about gaming and would one day love to breaking into the industry
 - 😋 Big ol' foodie and will eat anything
-- 🎹 I've played the piano for over 10 years 
+- 🎹 Played the piano since 7 years old 
 - 🎨 I enjoy creating digital art in my free time. Check out my work on <a href="https://behance.net/ipetpandas">Behance</a>! 
 
 ## Languages:
