@@ -9,9 +9,9 @@ I am a recent software engineer graduate who's skilled in multiple programming l
 Aside from my technical skills, I have a keen eye for design and a strong passion for creating visually appealing and user-friendly websites. At a young age, I worked on several web design projects, where I gained practical experience in UI/UX design, HTML, CSS, and responsive web design principles. I am excited about the prospect of using my technical and design skills to build innovative and engaging web applications that enhance the user experience.
 
 ## Quick facts:
-- 🎮 Very passionate about gaming and would one day love to breaking into the industry
-- 😋 Big ol' foodie and will eat anything
-- 🎹 Played the piano since 7 years old 
+- 🎮 Gamer with big dreams to break into the industry
+- 😋 Big ol' foodie
+- 🎹 Been playing the piano since 7 yeears old
 - 🎨 I enjoy creating digital art in my free time. Check out my work on <a href="https://behance.net/ipetpandas">Behance</a>! 
 
 ## Languages:
