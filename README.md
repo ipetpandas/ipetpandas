@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=A8FDF6&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;Software+Developer;Front-End+Developer;Back-End+Developer;CSS+Lover" alt="Typing SVG" /></a>
 </p>
 
-<p align="center"><img src="https://media4.giphy.com/media/dup6jDyj6Yk6z5M8nN/giphy.gif" width="100" /></p>
+<p align="center"><img src="https://media1.giphy.com/media/aQjjaJbuDNsK4/giphy.gif" width="120" /></p>
 
 I am a recent software engineer graduate who's skilled in multiple programming languages including JavaScript and Python, and have in-depth knowledge of popular libraries such as React.js. Graduating from a rigorous coding bootcamp has equipped me with the necessary skills to make a significant impact in the tech industry. I am enthusiastic about expanding my knowledge and exploring new opportunities in software engineering.
 
