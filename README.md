@@ -36,6 +36,7 @@ Aside from my technical skills, I have a keen eye for design and a strong passio
 
 ## Stats:
 ![ipetpandas's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ipetpandas&theme=radical&&langs_count=3)
+![ipetpandas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipetpandas&count_private=true&theme=radical&custom_title=Stats&hide=contribs&line_height=32)
 
 ## Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ipetpandas&theme=radical)](https://github.com/ipetpandas/github-profile-trophy)
