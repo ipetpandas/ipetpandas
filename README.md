@@ -1,6 +1,8 @@
 <div align="center"> <img src="https://i.imgur.com/kYIAM0i.png"> </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=A8FDF6&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;Software+Developer;Front-End+Developer;Back-End+Developer;CSS+Lover" alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=A8FDF6&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;Software+Developer;Front-End+Developer;Back-End+Developer;CSS+Lover" alt="Typing SVG" /></a>
+</p>
 
 ## Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
